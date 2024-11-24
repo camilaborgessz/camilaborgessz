@@ -20,7 +20,7 @@
 
 ## <h3>📱Contato</h3>
 <div>
-  <a href="mailto:borgescamila@gmail.com">
+  <a href="mailto:borgescamila09@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
   <a href="https://www.linkedin.com/in/camila-borges-9aa734216/" target="_blank">
