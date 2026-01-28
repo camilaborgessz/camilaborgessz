@@ -1,5 +1,5 @@
 ## 👋🏼Olá, eu sou a Camila Borges!
-👩‍💻 Estudante de Sistemas de Informação | 4º Período <br>
+👩‍💻 Estudante de Sistemas de Informação | 7º Período <br>
 🎯 Focada em Front-End e Desenvolvimento Web
 
 <h3>📊GitHub Stats</h3>
