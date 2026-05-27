@@ -19,7 +19,7 @@
 ## Sobre mim
 
 Apaixonada por criar interfaces que unem **design bonito** e **código limpo**.  
-Atualmente desenvolvendo projetos full-stack com Next.js, sempre buscando aprender mais sobre UX e acessibilidade.
+Atualmente desenvolvendo projetos com Next.js, sempre buscando aprender mais sobre UX e acessibilidade.
 
 <br/>
 
