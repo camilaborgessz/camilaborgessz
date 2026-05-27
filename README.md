@@ -44,18 +44,14 @@ Atualmente desenvolvendo projetos com Next.js, sempre buscando aprender mais sob
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camilaborgessz&theme=2077" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camilaborgessz&theme=2077" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=camilaborgessz&theme=2077" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camilaborgessz&theme=dracula" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=camilaborgessz&theme=dracula" height="150" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=camilaborgessz&hide_border=true&background=161b22&ring=a855f7&fire=f472b6&currStreakLabel=a855f7&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=camilaborgessz&hide_border=true&background=161b22&ring=a855f7&fire=f472b6&currStreakLabel=a855f7&border_radius=10&date_format=j%20M%5B%20Y%5D&color=ffffff&dates=8b949e&sideLabels=a855f7&sideNums=ffffff&currStreakNum=ffffff" />
 </div>
 
 <br/>
