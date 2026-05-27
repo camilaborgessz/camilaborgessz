@@ -1,32 +1,62 @@
-## 👋🏼Olá, eu sou a Camila Borges!
-👩‍💻 Estudante de Sistemas de Informação | 7º Período <br>
-🎯 Focada em Front-End e Desenvolvimento Web
+<div align="center">
 
-<h3>📊GitHub Stats</h3>
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=camilaborgessz&show_icons=true&theme=omni" alt="camilaborgessz's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaborgessz&layout=compact&theme=omni" alt="Top Langs" />
+# 👋🏼 Olá, eu sou a Camila Borges!
+
+🎓 Estudante de Sistemas de Informação | 7º Período  
+🎯 UX/UI Designer & Front-End Developer
+
+![](https://img.shields.io/badge/Front--End-a855f7?style=flat-square)
+![](https://img.shields.io/badge/UX%2FUI-f472b6?style=flat-square)
+![](https://img.shields.io/badge/Web%20Dev-a855f7?style=flat-square)
+
 </div>
 
-## <h3>💻Skills</h3>
+---
 
-<div style="margin-top: 100px; display: inline-block;">
-   <img height="30" width="30" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" style="margin-right: 10px;">
-   <img height="30" width="30" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" style="margin-right: 10px;">
-   <img height="30" width="30" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" style="margin-right: 10px;">
-   <img height="30" width="30" src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" style="margin-right: 10px;">
-   <img height="30" width="30" src="https://icongr.am/devicon/angularjs-plain.svg?size=128&color=currentColor" style="margin-right: 10px;">
+## 💅🏼 Sobre mim
+
+Apaixonada por criar interfaces que unem **design bonito** e **código limpo**.  
+Atualmente desenvolvendo projetos full-stack com Next.js e sempre buscando aprender mais sobre UX e acessibilidade.
+
+---
+
+## 🛠️ Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=camilaborgessz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=f472b6&text_color=8b949e" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaborgessz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e" height="160" />
 </div>
 
-## <h3>📱Contato</h3>
-<div>
-  <a href="mailto:borgescamila09@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-  </a>
-  <a href="https://www.linkedin.com/in/camila-borges-9aa734216/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+---
+
+## 🔥 Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=camilaborgessz&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=f472b6&currStreakLabel=a855f7" />
+</div>
+
+---
+
+## 📱 Contato
+
+<a href="mailto:borgescamila09@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</div>
-
-
-
+<a href="https://www.linkedin.com/in/camila-borges-9aa734216/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
