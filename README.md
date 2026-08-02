@@ -4,7 +4,7 @@
 
 <br/>
 
-🎓 Sistemas de Informação | 7º Período &nbsp;·&nbsp; 🎯 UX/UI & Front-End
+🎓 Sistemas de Informação | 8º Período &nbsp;·&nbsp; 🎯 UX/UI & Front-End
 
 <br/>
 
